@@ -7,3 +7,7 @@ pip install Flask
 ```
 
 When done, type `deactivate`
+
+*
+Reference for debate topics: https://blog.kialo-edu.com/debate-ideas/philosophical-debate-topics/
+*
