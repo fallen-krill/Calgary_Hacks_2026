@@ -1,0 +1,201 @@
+Is there a moral obligation to tip at a restaurant?
+Is it ever okay to break the rules?
+Can people truly change their habits?
+Is honesty always the best policy?
+Is it more important to be a good leader or a good follower?
+Would it be good to be famous?
+Is it more important to be kind or to be fair?
+Is lying about your age ever okay?
+Can one person really change the world?
+Are social media influencers a positive force in society?
+Is ignorance bliss?
+Is it possible to lie to yourself?
+What is happiness?
+Is it better to be happy or right?
+Is happiness the ultimate goal of life?
+Are people happier today than in the past?
+Is happiness a choice?
+Is lowering your expectations the secret to happiness?
+Are humans primarily driven by self-interest?
+Is happiness an end in itself?
+Do we need to live a good life to be happy?
+Can money make us happy?
+Do people need friends to be happy?
+Is love a choice or a feeling?
+Is unconditional love real?
+Do soulmates exist?
+Were Romeo and Juliet really in love?
+Is love a cultural construct?
+Can love really conquer all?
+Does love at first sight really exist?
+Is love essentially the same in every form?
+Can you choose to love someone?
+Is it better to have a few close friends or lots of casual friends?
+Is love truly blind?
+Can love exist without trust?
+Are friends better than family?
+Is it better to have loved and lost than never to have loved at all?
+Does absence make the heart grow fonder?
+Are family obligations a social construct?
+Is it okay to end a friendship over politics?
+Can friends be held to the same expectations as family?
+Is space infinite?
+Can the universe be understood through scientific knowledge alone?
+Should anyone own outer space?
+Is it important to explore outer space?
+Is time an illusion?
+Could there be universes other than our own?
+Would time travel benefit humanity?
+Is the universe eternal?
+Does the concept of a cosmic horizon mean we’ll never fully understand the universe?
+Should we assume extraterrestrial life would be hostile?
+Is the search for extraterrestrial life a meaningful activity?
+Do aliens exist?
+Should religious beliefs play a role in shaping public policy?
+What is the strongest argument in favor of the separation of church and state?
+Is Christianity compatible with feminism?
+Is Judaism compatible with feminism?
+Is Islam compatible with feminism?
+Is Christianity compatible with democracy?
+Is Islam compatible with democracy?
+Is Judaism compatible with democracy?
+Does St. Anselm’s ontological argument prove the existence of God?
+Can morality exist without religion?
+Is anything ever eternal?
+Is religious faith compatible with science?
+Is the declining interest in religion a problem?
+If God is all-powerful and all-knowing, is God responsible for evil?
+Is religion a matter of blind faith?
+Do all religions worship the same higher power?
+Should atheism be considered a religion?
+Would immortality be a good thing?
+Does fear of death influence how we live?
+Does our awareness of death make life more precious?
+Should euthanasia be legal?
+Should the death penalty be abolished globally?
+Should everyone be required to be an organ donor?
+What is the most important factor in prioritizing organ transplants?
+Should death be feared?
+Is there life after death?
+Is killing others always wrong?
+Is a fear of death rational or irrational?
+Can machines be intelligent?
+Is AI just pretending to be smart?
+Is it wrong to use AI-generated art?
+Is technological progress a good thing?
+Should scientists create synthetic life forms?
+Should there be strict rules regulating the data used to train LLMs?
+Should we ban creative AI software?
+Should we develop technology that can read minds?
+Should the genetic engineering of human embryos be banned?
+Does a reliance on technology have a positive or negative impact on human relationships?
+Is the collection of personal data by tech companies an invasion of privacy?
+Should there be a right to privacy in public spaces?
+Should driverless cars prioritize passenger safety over everything else?
+Would the world be a better place without humans?
+Should the Pavlovsk Experimental Station scientists have eaten the seeds during the siege of Leningrad?
+Do we have a responsibility to future generations?
+Should climate ethics exist beyond Earth?
+Is it fair to impose burdens on future generations to solve current problems?
+Should we use geoengineering to offset the impacts of climate change?
+Should developed countries bear more responsibility for the environmental crisis?
+Should environmental conservation take precedence over economic growth?
+Is climate change a matter of national or global responsibility?
+Are water resources a basic human right?
+Is it ethical to take short-haul flights?
+Should natural features be given legal personhood?
+Is it ethical to use dead animals in artworks?
+Is it immoral for people to own pets?
+Should animal testing be banned?
+Should animals have rights?
+Should humans eat animals?
+Should we ban zoos?
+Should we refrain from eating intelligent animals?
+Is it ethical to eat meat in a world where alternatives exist?
+If animals could talk, what would they say about humans?
+Is it ethical to use animals for entertainment?
+Do the benefits of direct democracy outweigh the costs?
+Is taking care of global issues more important than caring about local issues?
+Should monarchies be abolished?
+Is the right to privacy more important than freedom of the press?
+Should judges be elected by the people?
+Should societies prioritize freedom over security?
+Should people break unjust laws?
+Should voting be compulsory?
+Should we discourage nationalism?
+Should we ever use force to create peace?
+What is the best mode of peaceful protest?
+Should speech be regulated in line with John Stuart Mill’s harm principle?
+Was the United States wrong to drop atomic bombs on Japan?
+What is the most important quality a country’s leader should have?
+Which is better: “big” or “small” government?
+Is Rawls’ “veil of ignorance” too far removed from the realities of political life to make meaningful arguments about what justice should be?
+Which purpose of the criminal justice system is most important?
+Should we always respect people in authority?
+Should we change our vocabulary for referring to oppressed groups?
+Should society prioritize individual freedoms over collective welfare?
+Is language necessary for thought?
+Should the media always be objective?
+Is it okay for feminists to wear makeup?
+Is what’s popular always right?
+Is it possible to achieve true equality in society?
+Should social justice focus more on equality of outcome or equality of opportunity?
+Does the media shape public opinion in a way that benefits democracy?
+Does The Canterbury Tales primarily uphold or challenge the social order?
+Does The Crucible portray it as justifiable to sacrifice personal principles for the sake of societal norms?
+Should wealth be redistributed?
+Can our senses be trusted?
+Is there such a thing as society?
+Is time real, or an illusion?
+Does time exist objectively?
+Does free will exist?
+How do I know I exist?
+Where do good and evil come from?
+What is reality made of?
+Do we have control over our actions?
+Does memory alone count as evidence?
+Is reality objective or subjective?
+Is there a purpose to the universe?
+Is personal identity rooted in the body or the mind?
+Can a person change their identity completely?
+Do abstract objects like numbers exist independently of the physical world?
+Does moral responsibility depend on free will?
+Can we truly know anything with certainty?
+Is knowledge possible without language?
+Can we ever truly know history?
+Can a language shape how its speakers perceive the world?
+Can our senses be trusted?
+Is anything absolute?
+Is experience the most reliable source of knowledge?
+Can science guarantee we have the truth?
+Is there a difference between belief and knowledge?
+What is the relationship between knowledge and wisdom?
+Is morality universal?
+Is it ever ok to lie?
+Is pacifism moral?
+Is war ever justifiable?
+Is it okay to be selfish?
+Is torture justifiable in the name of security?
+Should the British Museum return artifacts to their countries of origin?
+Should governments impose population controls?
+Should morals be relative depending on culture?
+Should people be able to own personal vehicles?
+Is utilitarianism the most ethical framework to guide our actions?
+Is it ok to do wrong for the greater good?
+Should we always forgive others?
+In The Ones Who Walk Away from Omelas, is it morally justifiable to stay in Omelas?
+In Charlie and the Chocolate Factory, was Willy Wonka good at heart?
+Should we create artificial wombs for humans?
+What is the most important factor in prioritizing vaccine distribution?
+Can we be held responsible for our thoughts?
+Who decides the meaning of art?
+Can art be objectively bad?
+Should there be a strict definition of art?
+Can literature be separated from its historical or cultural context?
+Is there any justice in King Lear?
+Does Lord of the Flies present an accurate picture of human nature?
+Is beauty in the eye of the beholder?
+Is digital art as valuable as traditional art?
+Does good literature have to question societal norms?
+Are aesthetic judgments objective or subjective?
+Can the value of art be measured by its popularity?
