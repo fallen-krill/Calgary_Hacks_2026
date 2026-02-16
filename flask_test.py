@@ -84,14 +84,17 @@ def handle_disconnect(data):
     username = usernames.pop(request.sid, "Anonymous")
     
     room_id = user_room.get(username, None)
-    send(f"{username} left the chat", to=room_id)
 
-    if DEBUG:
-        print(f"{username} left the chat")
+    if room_id != None:
         
-    rooms[room_id].debaters.remove(username)
-    if len(rooms[room_id].debaters == 0):
-        del rooms[room_id]
+        send(f"{username} left the chat", to=room_id)
+
+        if DEBUG:
+            print(f"{username} left the chat")
+        
+            rooms[room_id].debaters.remove(username)
+            if len(rooms[room_id].debaters == 0):
+                del rooms[room_id]
     
 
 if __name__ == '__main__':
