@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Debate</title>
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}"> -->
+  </head>
+  <body>
+    <br>
+    <img src="/static/debate.png">
+    <br>
     <!-- Code from https://www.geeksforgeeks.org/python/flask-web-sockets/ -------->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script> <!-- Use pre-exististing socket JS library -->
     <script>
@@ -16,13 +26,17 @@
 	  var msgInput = document.getElementById("msg");
 	  var message = msgInput.value;
 	  socket.send(message);
-	  msgInput.value = ""
+	  msgInput.value = "";
       }
       </script>
 
+    <br><br>
     <h2>Flask WebSocket Chat</h2>
     <input id="msg" type="text" placeholder="Enter your message">
     <button onclick="sendMessage()">Send</button>
     <div id="messages"></div>
 
     <!------------------------------------------------------------------------------>
+    <br><br><br>
+  </body>
+</html>
