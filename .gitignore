@@ -5,3 +5,5 @@ venv
 **/venv
 venv/**
 **/.venv/**
+\#*\#
+.\#*
