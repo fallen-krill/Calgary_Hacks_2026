@@ -1,5 +1,5 @@
 #!/bin/bash
 python3 -m venv ./venv
 source venv/bin/activate
-DEBUG=1 python3 main.py
+pip install flask-socketio
 deactivate
