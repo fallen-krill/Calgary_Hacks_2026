@@ -14,9 +14,9 @@ def get_topics() -> Iterator[str]:
     data = requests.get(TOPICS_URL)
     soup = BeautifulSoup(data.content, "html.parser")
     for x in soup.find_all("li"):
-        if x.get_text().startswith("\n"):
+        if x.text.startswith("\n"):
             break
-        yield x.get_text()
+        yield x.text
 
 
 # Function gives you a question from a list of topics by a blog
