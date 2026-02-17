@@ -35,8 +35,8 @@
     <br><br>
     <h2 id="prompt1"></h2>
     <script>
-      //const pr1 = document.getElementById("prompt1");
 
+      // update prompt
       socket.on("prompt_update", function(data){
 	  var pr1 = document.getElementById("prompt1");
 	  pr1.innerHTML = "Prompt: ".concat(data);
