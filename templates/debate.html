@@ -34,12 +34,19 @@
 
     <br><br>
     <h2 id="prompt1"></h2>
+    <h3 id="position1"></h2>
     <script>
 
       // update prompt
       socket.on("prompt_update", function(data){
 	  var pr1 = document.getElementById("prompt1");
 	  pr1.innerHTML = "Prompt: ".concat(data);
+      });
+
+      // update position
+      socket.on("position_update", function(data){
+	  var pos1 = document.getElementById("position1")
+	  pos1.innerHTML = "Position: ".concat(data);
       });
 
     </script>

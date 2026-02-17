@@ -29,6 +29,7 @@ class Room():
         self.spectators = []
         self.room_id = room_id # first person's id determines room ID
         self.prompt = "[prompt]"
+        self.chat_log = []
 
     def new_prompt(self):
         num_prompts = len(prompts)
@@ -55,6 +56,8 @@ def handle_join(username):
     usernames[request.sid] = username  # Store username by session ID
 
     room_assigned = None
+    position = ""
+    
     for room in rooms.values():
         if len(room.debaters) == 1:
             room_assigned = room # add this user to list of debaters
@@ -62,9 +65,11 @@ def handle_join(username):
             room.debaters.append(username)
             rooms[room_assigned.room_id] = room_assigned
             user_room[username] = room_assigned.room_id
+            position = "No."
             break
             
     if room_assigned is None: # if there is nobody waiting for a match
+        position = "Yes."
         room_assigned = Room(username) # create new room and make this user the first debater in it
         rooms[username] = room_assigned
         room_assigned.new_prompt()
@@ -72,8 +77,9 @@ def handle_join(username):
         user_room[username] = username
 
     # Runs regardless
-    send(f"{username} joined the chat", to=room_assigned.room_id)
+    send(f"{username} joined the chat.", to=room_assigned.room_id)
     emit("prompt_update", room_assigned.prompt) # trigger "prompt_update" event
+    emit("position_update", position)
 
     
 # Handle user messages
@@ -81,7 +87,9 @@ def handle_join(username):
 def handle_message(data):
     username = usernames.get(request.sid, "Anonymous")  # Get the user's name
     room_id = user_room[username]
-    send(f"{username}: {data}", to=room_id)  # Send to everyone, event is "message"
+    message = f"{username}: {data}",
+    send(message, to=room_id)  # Send to everyone, event is "message"
+    #rooms[user_room[username]].chat_log.append(message)
     
 
 # Handle disconnects
